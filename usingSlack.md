@@ -41,7 +41,7 @@ To nudge students into setting up an account and using it to post content, I ass
 I tell students that they're welcome to continue using email to contact for me for course related issues, and that after the initial introduction exercise is done they can choose not to check Slack again. However, I also do offer some "bonus" opportunities for those who do use Slack--for instance, when I recently offered my web design students the opportunity to resubmit a project for an improved grade, I told them that they needed to contact me via Slack (and include a link) to request that I regrade their revision.
 
 ### Easy Access to Slack (and GitHub) from LMS
-Our LMS (Brightspace, formerly D2L, allows customization of the navigation bar for a class. I added custom links to both the GitHub repo and the Slack workspace from that, as well as adding a prominent "news" item on the first page with links to both. 
+Our LMS (Brightspace, formerly D2L), allows customization of the navigation bar for a class. I added custom links to both the GitHub repo and the Slack workspace from that, as well as adding a prominent "news" item on the first page with links to both. 
 
 ![Slack links in LMS](images/slack-lms-link.png)
 
